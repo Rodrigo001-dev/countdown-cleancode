@@ -1,4 +1,4 @@
-## Projeto
+## :page_with_curl: Projeto
 
 Criando um countdown com react utilizando um pouco de clean code!
 
